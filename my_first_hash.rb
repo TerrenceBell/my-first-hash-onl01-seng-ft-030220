@@ -1,5 +1,5 @@
 def my_hash = {
-  ["favorite_thing"] = "Books"
+  
   
 end
 
