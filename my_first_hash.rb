@@ -1,4 +1,5 @@
-def my_hash = {
+def my_hash 
+  teacher = {
   "name" => "Corinna",
   "age" => 36
 } 
