@@ -25,6 +25,7 @@ shipping_manifest["oil paintings"]
 
 end
 shipping_manifest["oil paintings"]
+end
 def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
